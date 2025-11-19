@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
-import TopLoader, { LoaderProvider } from "@next-top-loader/core";
-import "@next-top-loader/core/styles.css";
+import TopLoader, { LoaderProvider } from "@shavaizali/next-top-loader";
+import "@shavaizali/next-top-loader/styles.css";
 import "./globals.css";
 import Link from "next/link";
 
