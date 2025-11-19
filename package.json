@@ -1,6 +1,6 @@
 {
   "name": "@shavaizali/next-top-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight, customizable top loading progress bar for Next.js App Router",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -53,6 +53,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shavaizali/next-top-loader"
+    "url": "https://github.com/Shavaiz-Ali/next-top-loader"
   }
 }
