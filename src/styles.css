@@ -1,0 +1,21 @@
+/* Next Top Loader Styles */
+
+.next-top-loader {
+  pointer-events: none;
+  will-change: transform;
+}
+
+.next-top-loader-spinner {
+  pointer-events: none;
+  animation: next-top-loader-spinner-rotation 0.4s linear infinite;
+  will-change: transform, opacity;
+}
+
+@keyframes next-top-loader-spinner-rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

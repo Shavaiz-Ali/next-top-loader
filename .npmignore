@@ -1,0 +1,30 @@
+# Source files
+src/
+tsconfig.json
+
+# Example app
+example/
+
+# Development files
+.git/
+.github/
+.vscode/
+.idea/
+
+# Tests
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+__tests__/
+
+# Documentation (except README)
+docs/
+
+# Build configuration
+.eslintrc*
+.prettierrc*
+
+# Misc
+*.log
+.DS_Store
