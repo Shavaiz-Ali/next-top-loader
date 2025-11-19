@@ -1,6 +1,6 @@
 'use client';
 
-import { useLoader } from '@next-top-loader/core';
+import { useLoader } from "@shavaizali/next-top-loader";
 import { useState } from 'react';
 
 export default function Demo() {
